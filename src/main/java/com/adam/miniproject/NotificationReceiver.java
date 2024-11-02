@@ -1,5 +1,5 @@
 // NotificationReceiver.java
-package com.adam.miniproject;
+package com.aditi.miniproject;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
