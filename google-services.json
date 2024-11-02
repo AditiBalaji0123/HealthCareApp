@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519819466332",
+    "project_id": "healthapp-2fdad",
+    "storage_bucket": "healthapp-2fdad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519819466332:android:b2b4a2580fd69c2df63899",
+        "android_client_info": {
+          "package_name": "com.adam.miniproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdGA7BnhCLf3hZJH6_K2D1Z7_3vwIrqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

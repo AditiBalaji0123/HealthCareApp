@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mini Project</string>
+    <string name="healthy_living_title">Healthy Living Tips</string>
+    <string name="healthy_living_intro">Embracing a healthy lifestyle can significantly improve your well-being. Here are some essential tips to help you live better.</string>
+
+    <string name="dietary_guidelines">
+        <![CDATA[
+        1. Focus on Whole Foods:
+           Prioritize whole, minimally processed foods such as fruits, vegetables, whole grains, and lean proteins to nourish your body.\n\n
+        2. Balance Your Plate:
+           Aim for a balanced meal that includes a source of protein, healthy fats, and fiber-rich carbohydrates to keep you satisfied.\n\n
+        3. Control Portion Sizes:
+           Use smaller plates and bowls to help manage portion sizes and prevent overeating.\n\n
+        4. Incorporate More Plant-Based Foods:
+           Include more plant-based proteins, such as beans, lentils, and tofu, to diversify your nutrient intake and reduce reliance on animal products.\n\n
+        5. Choose Healthy Snacks:
+           Opt for nutritious snacks like fruits, nuts, yogurt, or vegetable sticks with hummus instead of processed snacks high in sugar and fat.\n\n
+        6. Stay Mindful While Eating:
+           Practice mindful eating by slowing down, savoring your food, and paying attention to hunger and fullness cues.\n\n
+        7. Plan Your Meals:
+           Prepare meals in advance to ensure you have healthy options available and reduce the temptation of unhealthy fast food.\n\n
+        8. Stay Hydrated with Water:
+           Make water your go-to beverage; carry a reusable water bottle and set reminders to drink regularly throughout the day.\n\n
+        9. Limit Processed Foods:
+           Minimize consumption of packaged foods that are high in salt, sugar, and unhealthy fats to promote better health.\n\n
+        • Incorporate at least 30 minutes of moderate exercise into your daily routine to boost overall health.\n
+        • Aim for 7-9 hours of quality sleep each night to support mental and physical well-being.\n
+        • Limit screen time before bed to improve sleep quality.\n
+        • Manage stress through activities like yoga, meditation, or hobbies that bring you joy.\n
+        • Build a support system with friends and family to stay motivated and accountable.\n
+        • Regularly assess your health goals and adjust your diet and exercise plan as needed.\n
+        ]]>
+    </string>
+</resources>
