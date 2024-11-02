@@ -1,4 +1,4 @@
-package com.adam.miniproject;
+package com.aditi.miniproject;
 
 public class NicotineRecord {
     private String intake;
