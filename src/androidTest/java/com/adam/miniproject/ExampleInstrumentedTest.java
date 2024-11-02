@@ -1,4 +1,4 @@
-package com.Aditi.miniproject;
+package com.aditi.miniproject;
 
 import android.content.Context;
 
