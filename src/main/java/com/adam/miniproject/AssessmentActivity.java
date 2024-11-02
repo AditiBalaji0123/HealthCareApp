@@ -1,4 +1,4 @@
-package com.adam.miniproject;
+package com.aditi.miniproject;
 
 import android.app.DatePickerDialog;
 import android.os.Bundle;
