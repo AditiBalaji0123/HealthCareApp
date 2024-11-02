@@ -1,4 +1,4 @@
-package com.adam.miniproject;
+package com.aditi.miniproject;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
