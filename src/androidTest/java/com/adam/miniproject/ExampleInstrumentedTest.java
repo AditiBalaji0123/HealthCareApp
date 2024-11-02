@@ -1,4 +1,4 @@
-package com.adam.miniproject;
+package com.Aditi.miniproject;
 
 import android.content.Context;
 
