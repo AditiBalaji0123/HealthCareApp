@@ -1,5 +1,5 @@
 // NotificationHelper.java
-package com.adam.miniproject;
+package com.aditi.miniproject;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
